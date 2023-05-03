@@ -1,3 +1,3 @@
-# Headline
+# 前端笔记
 
-> An awesome project.
+> https://woshi-god.github.io/FrontNode.github.io/
